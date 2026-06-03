@@ -13,10 +13,31 @@
 
 ---
 
+## 📊 GitHub Stats
+![Anil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anilchy45&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anilchy45&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=Anilchy45&theme=tokyonight&no-frame=true&row=1)
+
+---
+
 ## 🌱 Currently Learning
 - Python programming
 - Building AI apps
 - How to turn ideas into real products
+
+---
+
+## 👀 Visitor Counter
+![Visitor Count](https://komarev.com/ghpvc/?username=Anilchy45&color=blueviolet&style=for-the-badge)
+
+---
+
+## 🐍 Contribution Snake
+![Snake animation](https://raw.githubusercontent.com/Anilchy45/Anilchy45/output/github-contribution-grid-snake.svg)
 
 ---
 
